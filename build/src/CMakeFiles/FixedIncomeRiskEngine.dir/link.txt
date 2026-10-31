@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FixedIncomeRiskEngine.dir/FixedIncomeRiskEngine.cpp.o CMakeFiles/FixedIncomeRiskEngine.dir/IBKRSocketClient.cpp.o CMakeFiles/FixedIncomeRiskEngine.dir/main.cpp.o -o FixedIncomeRiskEngine 
